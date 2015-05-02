@@ -1,10 +1,11 @@
 {
   "name": "little-bean-house",
   "version": "0.1.3",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Footprints for Huang You You",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "postinstall": "./node_modules/bower/bin/bower install"
   },
   "dependencies": {
     "express": "~4.9.x"
