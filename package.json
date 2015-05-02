@@ -8,8 +8,9 @@
     "postinstall": "./node_modules/bower/bin/bower install"
   },
   "dependencies": {
+    "bower": "^1.4.1",
     "express": "~4.9.x",
-    "bower": "^1.4.1"
+    "jade": "^1.9.2"
   },
   "engines": {
     "node": "0.12.2"
