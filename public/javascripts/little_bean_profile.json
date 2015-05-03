@@ -6,131 +6,11 @@
     "startDate": "2014,7,18",
     "date": [
       {
-        "startDate": "2015,4,18",
-        "headline": "9个月",
-        "text": "向大家宣布，我九个月啦！",
+        "startDate": "2014,7,18",
+        "headline": "出生",
+        "text": "<p>我出生啦，人生第一张照片，又脏又难看</p>",
         "asset": {
-          "media": "images/little_bean/20150418.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2015,3,17",
-        "headline": "8个月",
-        "text": "8个月，橙子的味道真是棒极了",
-        "asset": {
-          "media": "images/little_bean/20150317.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2015,2,8",
-        "headline": "7个月",
-        "text": "7个月，这镜子该擦擦了",
-        "asset": {
-          "media": "images/little_bean/20150208.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,12,15",
-        "headline": "5个月",
-        "text": "5个月，卖萌照",
-        "asset": {
-          "media": "images/little_bean/20141215.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,10,27",
-        "headline": "100天",
-        "text": "100天，练习翻身中，看我够努力吧",
-        "asset": {
-          "media": "images/little_bean/20141027.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,9,8",
-        "headline": "52天",
-        "text": "52天，我坐飞机了，一觉醒来，为什么已经降落了？",
-        "asset": {
-          "media": "images/little_bean/20140908.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,8,22",
-        "headline": "8月22号",
-        "text": "雷翻了的发型",
-        "asset": {
-          "media": "images/little_bean/20140822.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,8,17",
-        "headline": "8月17号",
-        "text": "生病住院了，满月在医院度过的，是不是也很特别呢",
-        "asset": {
-          "media": "images/little_bean/20140817.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,8,13",
-        "headline": "8月13号",
-        "text": "这就是传说中的看家眼吗，睡着了也能看见你",
-        "asset": {
-          "media": "images/little_bean/20140813.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,8,11",
-        "headline": "8月11号",
-        "text": "把淑女进行到底",
-        "asset": {
-          "media": "images/little_bean/20140811.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,7,28",
-        "headline": "第十一天",
-        "text": "11天啦，和妈妈神同步的睡姿，请忽略乱糟糟的床哦",
-        "asset": {
-          "media": "images/little_bean/20140728.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,7,26",
-        "headline": "第九天",
-        "text": "第九天，梦到小帅哥了，嘿嘿",
-        "asset": {
-          "media": "images/little_bean/20140726.jpg",
-          "credit": "",
-          "caption": ""
-        }
-      },
-      {
-        "startDate": "2014,7,21",
-        "headline": "第四天",
-        "text": "<p>第四天，水里睡觉，好凉爽</p>",
-        "asset": {
-          "media": "images/little_bean/20140721.jpg",
+          "media": "images/little_bean/20140718.jpg",
           "credit": "",
           "caption": ""
         }
@@ -146,11 +26,131 @@
         }
       },
       {
-        "startDate": "2014,7,18",
-        "headline": "出生",
-        "text": "<p>我出生啦，人生第一张照片，又脏又难看</p>",
+        "startDate": "2014,7,21",
+        "headline": "第四天",
+        "text": "<p>第四天，水里睡觉，好凉爽</p>",
         "asset": {
-          "media": "images/little_bean/20140718.jpg",
+          "media": "images/little_bean/20140721.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,7,26",
+        "headline": "第九天",
+        "text": "第九天，梦到小帅哥了，嘿嘿",
+        "asset": {
+          "media": "images/little_bean/20140726.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,7,28",
+        "headline": "第十一天",
+        "text": "11天啦，和妈妈神同步的睡姿，请忽略乱糟糟的床哦",
+        "asset": {
+          "media": "images/little_bean/20140728.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,8,11",
+        "headline": "8月11号",
+        "text": "把淑女进行到底",
+        "asset": {
+          "media": "images/little_bean/20140811.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,8,13",
+        "headline": "8月13号",
+        "text": "这就是传说中的看家眼吗，睡着了也能看见你",
+        "asset": {
+          "media": "images/little_bean/20140813.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,8,17",
+        "headline": "8月17号",
+        "text": "生病住院了，满月在医院度过的，是不是也很特别呢",
+        "asset": {
+          "media": "images/little_bean/20140817.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,8,22",
+        "headline": "8月22号",
+        "text": "雷翻了的发型",
+        "asset": {
+          "media": "images/little_bean/20140822.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,9,8",
+        "headline": "52天",
+        "text": "52天，我坐飞机了，一觉醒来，为什么已经降落了？",
+        "asset": {
+          "media": "images/little_bean/20140908.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,10,27",
+        "headline": "100天",
+        "text": "100天，练习翻身中，看我够努力吧",
+        "asset": {
+          "media": "images/little_bean/20141027.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,12,15",
+        "headline": "5个月",
+        "text": "5个月，卖萌照",
+        "asset": {
+          "media": "images/little_bean/20141215.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,2,18",
+        "headline": "7个月",
+        "text": "7个月，这镜子该擦擦了",
+        "asset": {
+          "media": "images/little_bean/20150218.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,3,17",
+        "headline": "8个月",
+        "text": "8个月，橙子的味道真是棒极了",
+        "asset": {
+          "media": "images/little_bean/20150317.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,4,18",
+        "headline": "9个月",
+        "text": "向大家宣布，我九个月啦！",
+        "asset": {
+          "media": "images/little_bean/20150418.jpg",
           "credit": "",
           "caption": ""
         }
