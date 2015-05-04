@@ -146,11 +146,31 @@
         }
       },
       {
+        "startDate": "2015,3,29",
+        "headline": "3月29号",
+        "text": "粑粑，快起来陪我玩",
+        "asset": {
+          "media": "images/little_bean/20150329.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,4,18",
         "headline": "9个月",
         "text": "向大家宣布，我九个月啦！",
         "asset": {
           "media": "images/little_bean/20150418.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,4,26",
+        "headline": "4月26号",
+        "text": "诶，好扎嘴",
+        "asset": {
+          "media": "images/little_bean/20150426.jpg",
           "credit": "",
           "caption": ""
         }
