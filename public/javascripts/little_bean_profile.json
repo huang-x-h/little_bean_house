@@ -129,7 +129,7 @@
       {
         "startDate": "2014,11,25",
         "headline": "11月25号",
-        "text": "我是只小蜜蜂，嗡嗡嗡",
+        "text": "带个帽子，漂不漂亮",
         "asset": {
           "media": "images/little_bean/20141125.jpg",
           "credit": "",
@@ -139,7 +139,7 @@
       {
         "startDate": "2014,12,15",
         "headline": "5个月",
-        "text": "5个月，卖萌照",
+        "text": "我是只小蜜蜂，嗡嗡嗡",
         "asset": {
           "media": "images/little_bean/20141215.jpg",
           "credit": "",
@@ -231,7 +231,7 @@
         "headline": "4月1号",
         "text": "粑粑、麻麻和我，快来猜猜都是谁",
         "asset": {
-          "media": "images/little_bean/20150411.jpg",
+          "media": "images/little_bean/20150401.jpg",
           "credit": "",
           "caption": ""
         }
@@ -291,7 +291,7 @@
         "headline": "Dancing Queen",
         "text": "摩擦摩擦，是魔鬼的步伐",
         "asset": {
-          "media": "videos/dancing.mp4",
+          "media": "images/little_bean/20150504.jpg",
           "credit": "",
           "caption": ""
         }
