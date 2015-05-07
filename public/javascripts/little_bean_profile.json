@@ -1,5 +1,6 @@
 {
   "timeline": {
+    "lang": "zh-cn",
     "headline": "小豆子的成长记录",
     "type": "default",
     "text": "记录可爱宝宝小豆子的点点滴滴",
@@ -106,6 +107,16 @@
         }
       },
       {
+        "startDate": "2014,10,5",
+        "headline": "10月5号",
+        "text": "快来，和粑粑亲亲",
+        "asset": {
+          "media": "images/little_bean/20141005.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2014,10,27",
         "headline": "100天",
         "text": "100天，练习翻身中，看我够努力吧",
@@ -116,11 +127,71 @@
         }
       },
       {
+        "startDate": "2014,11,25",
+        "headline": "11月25号",
+        "text": "我是只小蜜蜂，嗡嗡嗡",
+        "asset": {
+          "media": "images/little_bean/20141125.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2014,12,15",
         "headline": "5个月",
         "text": "5个月，卖萌照",
         "asset": {
           "media": "images/little_bean/20141215.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,12,31",
+        "headline": "12月31号",
+        "text": "背带照",
+        "asset": {
+          "media": "images/little_bean/20141231.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,1,18",
+        "headline": "6个月",
+        "text": "半岁啦，蛋糕，好想吃",
+        "asset": {
+          "media": "images/little_bean/20150118.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,1,30",
+        "headline": "1月30号",
+        "text": "看，我会自己坐了，厉害吧",
+        "asset": {
+          "media": "images/little_bean/20150130.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,2,11",
+        "headline": "2月11号",
+        "text": "粑粑，快来陪我玩",
+        "asset": {
+          "media": "images/little_bean/20150211.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,2,14",
+        "headline": "2月14号",
+        "text": "动词大慈动词大慈",
+        "asset": {
+          "media": "images/little_bean/20150214.jpg",
           "credit": "",
           "caption": ""
         }
@@ -156,9 +227,29 @@
         }
       },
       {
+        "startDate": "2015,4,1",
+        "headline": "4月1号",
+        "text": "粑粑、麻麻和我，快来猜猜都是谁",
+        "asset": {
+          "media": "images/little_bean/20150411.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,4,11",
+        "headline": "4月11号",
+        "text": "快来，这是我的城堡",
+        "asset": {
+          "media": "images/little_bean/20150411.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,4,18",
         "headline": "9个月",
-        "text": "向大家宣布，我九个月啦！",
+        "text": "啊啊啊，我要长大",
         "asset": {
           "media": "images/little_bean/20150418.jpg",
           "credit": "",
@@ -166,11 +257,41 @@
         }
       },
       {
+        "startDate": "2015,4,25",
+        "headline": "雨发生态园",
+        "text": "我的公主车，嘟嘟嘟",
+        "asset": {
+          "media": "images/little_bean/20150425.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,4,26",
         "headline": "4月26号",
-        "text": "诶，好扎嘴",
+        "text": "咦，好扎嘴",
         "asset": {
           "media": "images/little_bean/20150426.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,5,3",
+        "headline": "好吃的米粉和豌豆泥",
+        "text": "真好吃，不能浪费，我要全部吃掉",
+        "asset": {
+          "media": "images/little_bean/20150503.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,5,4",
+        "headline": "Dancing Queen",
+        "text": "摩擦摩擦，是魔鬼的步伐",
+        "asset": {
+          "media": "videos/dancing.mp4",
           "credit": "",
           "caption": ""
         }
