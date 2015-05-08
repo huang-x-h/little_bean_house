@@ -107,11 +107,51 @@
         }
       },
       {
+        "startDate": "2014,9,10",
+        "headline": "54天",
+        "text": "嗯嗯中，真顺畅！",
+        "asset": {
+          "media": "images/little_bean/20140910.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,9,21",
+        "headline": "9月21号",
+        "text": "下面，我给大家唱个陕北民歌，山丹丹花开红艳艳",
+        "asset": {
+          "media": "images/little_bean/20140921.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2014,10,5",
         "headline": "10月5号",
         "text": "快来，和粑粑亲亲",
         "asset": {
           "media": "images/little_bean/20141005.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,10,7",
+        "headline": "10月7号",
+        "text": "我爱洗澡，皮肤好好，哦哦哦哦",
+        "asset": {
+          "media": "images/little_bean/20141007.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,10,23",
+        "headline": "10月23号",
+        "text": "晒太阳好舒服",
+        "asset": {
+          "media": "images/little_bean/20141023.jpg",
           "credit": "",
           "caption": ""
         }
@@ -127,11 +167,41 @@
         }
       },
       {
+        "startDate": "2014,11,19",
+        "headline": "11月19号",
+        "text": "我的新玩具，拨浪鼓",
+        "asset": {
+          "media": "images/little_bean/20141119.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2014,11,25",
         "headline": "11月25号",
         "text": "戴个帽子，漂不漂亮",
         "asset": {
           "media": "images/little_bean/20141125.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,12,4",
+        "headline": "12月4号",
+        "text": "做鬼脸第一名",
+        "asset": {
+          "media": "images/little_bean/20141204.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,12,7",
+        "headline": "12月7号",
+        "text": "我是超人",
+        "asset": {
+          "media": "images/little_bean/20141207.jpg",
           "credit": "",
           "caption": ""
         }
@@ -157,11 +227,31 @@
         }
       },
       {
+        "startDate": "2015,1,3",
+        "headline": "1月3号",
+        "text": "我美吗",
+        "asset": {
+          "media": "images/little_bean/20150103.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,1,18",
         "headline": "6个月",
         "text": "半岁啦，蛋糕，好想吃",
         "asset": {
           "media": "images/little_bean/20150118.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,1,22",
+        "headline": "1月22号",
+        "text": "丽人倩影",
+        "asset": {
+          "media": "images/little_bean/20150122.jpg",
           "credit": "",
           "caption": ""
         }
@@ -202,6 +292,16 @@
         "text": "7个月，这镜子该擦擦了",
         "asset": {
           "media": "images/little_bean/20150218.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,2,20",
+        "headline": "2月20号",
+        "text": "我和小动物的合影",
+        "asset": {
+          "media": "images/little_bean/20150220.jpg",
           "credit": "",
           "caption": ""
         }
