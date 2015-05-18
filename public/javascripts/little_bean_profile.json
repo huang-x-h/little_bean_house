@@ -397,11 +397,41 @@
         }
       },
       {
+        "startDate": "2015,5,8",
+        "headline": "挖宝藏",
+        "text": "挖掘我的宝藏",
+        "asset": {
+          "media": "images/little_bean/20150508.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,5,9",
         "headline": "荡秋千",
         "text": "第一次荡秋千，小手抓得紧紧的",
         "asset": {
           "media": "images/little_bean/20150509.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,5,16",
+        "headline": "肯德基",
+        "text": "和爸爸在KFC喝水，妈妈躲在旁边啃汉堡",
+        "asset": {
+          "media": "images/little_bean/20150516.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,5,17",
+        "headline": "吃苹果",
+        "text": "我要大口大口吃苹果，啊呜",
+        "asset": {
+          "media": "images/little_bean/20150517.jpg",
           "credit": "",
           "caption": ""
         }
