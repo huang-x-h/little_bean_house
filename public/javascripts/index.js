@@ -10,7 +10,7 @@ $(document).ready(setTimeout(function() {
                     src: item.asset.media,
                     title: item.text
                 }
-            }),
+            }).reverse(),
             type: 'image',
             tLoading: 'Loading image #%curr%...',
             mainClass: 'mfp-img-mobile',
