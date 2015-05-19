@@ -9,7 +9,7 @@
       {
         "startDate": "2014,7,18",
         "headline": "出生",
-        "text": "<p>我出生啦，人生第一张照片，又脏又难看</p>",
+        "text": "我出生啦，人生第一张照片，又脏又难看",
         "asset": {
           "media": "images/little_bean/20140718.jpg",
           "credit": "",
@@ -19,7 +19,7 @@
       {
         "startDate": "2014,7,19",
         "headline": "第二天",
-        "text": "<p>第二天，洗干净了的我，还是很美的</p>",
+        "text": "第二天，洗干净了的我，还是很美的",
         "asset": {
           "media": "images/little_bean/20140719.jpg",
           "credit": "",
@@ -29,7 +29,7 @@
       {
         "startDate": "2014,7,21",
         "headline": "第四天",
-        "text": "<p>第四天，水里睡觉，好凉爽</p>",
+        "text": "第四天，水里睡觉，好凉爽",
         "asset": {
           "media": "images/little_bean/20140721.jpg",
           "credit": "",

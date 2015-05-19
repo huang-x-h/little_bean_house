@@ -3,6 +3,15 @@ extends layout
 block content
     #timeline-embed
 
-    script(type='text/javascript', src='/javascripts/index.js')
+    script.
+        var timeline_config = {
+            width: "100%",
+            height: "100%",
+            start_at_end: true,
+            source: '/javascripts/little_bean_profile.json'
+        }
+
     script(type='text/javascript', src='/bower_components/jquery/dist/jquery.js')
     script(type='text/javascript', src='/javascripts/vendors/timelinejs/js/storyjs-embed.js')
+    script(type='text/javascript', src='/javascripts/vendors/magnific/jquery.magnific-popup.js')
+    script(type='text/javascript', src='/javascripts/index.js')
