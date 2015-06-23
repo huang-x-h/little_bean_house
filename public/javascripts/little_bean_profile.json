@@ -455,6 +455,66 @@
           "credit": "",
           "caption": ""
         }
+      },
+      {
+        "startDate": "2015,5,29",
+        "headline": "大力士",
+        "text": "我是女汉子，大力士",
+        "asset": {
+          "media": "images/little_bean/20150529.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,6,14",
+        "headline": "6月14号",
+        "text": "麻麻，给我，我也要拍照",
+        "asset": {
+          "media": "images/little_bean/20150614.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,6,17",
+        "headline": "6月17号",
+        "text": "植物大战僵尸，hohoho",
+        "asset": {
+          "media": "images/little_bean/20150617.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,6,20",
+        "headline": "6月20号",
+        "text": "小的们，冲啊！",
+        "asset": {
+          "media": "images/little_bean/20150620.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,6,21",
+        "headline": "6月21号",
+        "text": "唉，我看见你啦",
+        "asset": {
+          "media": "images/little_bean/20150621.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,6,22",
+        "headline": "6月22号",
+        "text": "我是小公主",
+        "asset": {
+          "media": "images/little_bean/20150622.jpg",
+          "credit": "",
+          "caption": ""
+        }
       }
     ]
   }
