@@ -515,6 +515,36 @@
           "credit": "",
           "caption": ""
         }
+      },
+      {
+        "startDate": "2015,6,28",
+        "headline": "6月28号",
+        "text": "嘿嘿，三颗小牙牙",
+        "asset": {
+          "media": "images/little_bean/20150628.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,6,29",
+        "headline": "6月29号",
+        "text": "爱穿爸爸鞋的小豆子",
+        "asset": {
+          "media": "images/little_bean/20150629.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,7,4",
+        "headline": "7月4号",
+        "text": "好热啊",
+        "asset": {
+          "media": "images/little_bean/20150704.jpg",
+          "credit": "",
+          "caption": ""
+        }
       }
     ]
   }
