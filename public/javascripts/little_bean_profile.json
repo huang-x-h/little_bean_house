@@ -635,6 +635,56 @@
           "credit": "",
           "caption": ""
         }
+      },
+      {
+        "startDate": "2015,8,22",
+        "headline": "8月22号",
+        "text": "啊，好吃的火龙果",
+        "asset": {
+          "media": "images/little_bean/20150822.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,8,23",
+        "headline": "8月23号",
+        "text": "我是豆丽莲梦露",
+        "asset": {
+          "media": "images/little_bean/20150823.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,8,29",
+        "headline": "8月29号",
+        "text": "咦，我美吗？",
+        "asset": {
+          "media": "images/little_bean/20150829.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,8,30",
+        "headline": "8月30号",
+        "text": "动画片真好看",
+        "asset": {
+          "media": "images/little_bean/20150830.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,13",
+        "headline": "9月13号",
+        "text": "和美丽的妈妈一起在游乐场",
+        "asset": {
+          "media": "images/little_bean/20150913.jpg",
+          "credit": "",
+          "caption": ""
+        }
       }
     ]
   }
