@@ -715,6 +715,66 @@
           "credit": "",
           "caption": ""
         }
+      },
+      {
+        "startDate": "2015,9,24",
+        "headline": "9月24号",
+        "text": "我的摇摇马，嘿嘿",
+        "asset": {
+          "media": "images/little_bean/20150924.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,25",
+        "headline": "9月25号",
+        "text": "粑粑，我要抱抱，呜呜呜",
+        "asset": {
+          "media": "images/little_bean/20150925.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,2",
+        "headline": "10月2号",
+        "text": "好大的海(长江)啊",
+        "asset": {
+          "media": "images/little_bean/20151002.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,3",
+        "headline": "10月3号",
+        "text": "好多玩具，哈哈",
+        "asset": {
+          "media": "images/little_bean/20151003.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,5",
+        "headline": "10月5号",
+        "text": "南京浦口火车站，拍摄情深深雨蒙蒙的地方",
+        "asset": {
+          "media": "images/little_bean/20151005.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "和麻麻一起看新疆舞",
+        "asset": {
+          "media": "images/little_bean/20151018.jpg",
+          "credit": "",
+          "caption": ""
+        }
       }
     ]
   }
