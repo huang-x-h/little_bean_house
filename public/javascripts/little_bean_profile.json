@@ -677,11 +677,41 @@
         }
       },
       {
+        "startDate": "2015,9,12",
+        "headline": "9月12号",
+        "text": "我也要吃西餐",
+        "asset": {
+          "media": "images/little_bean/20150912.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,9,13",
         "headline": "9月13号",
         "text": "和美丽的妈妈一起在游乐场",
         "asset": {
           "media": "images/little_bean/20150913.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,19",
+        "headline": "9月19号",
+        "text": "唉～～～，我看到你喽",
+        "asset": {
+          "media": "images/little_bean/20150919.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,20",
+        "headline": "9月20号",
+        "text": "好吃的批萨",
+        "asset": {
+          "media": "images/little_bean/20150920.jpg",
           "credit": "",
           "caption": ""
         }
