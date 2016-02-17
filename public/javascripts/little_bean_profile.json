@@ -775,6 +775,46 @@
           "credit": "",
           "caption": ""
         }
+      },
+      {
+        "startDate": "2016,2,5",
+        "headline": "2月5号",
+        "text": "爸爸看我长高了没有",
+        "asset": {
+          "media": "images/little_bean/20160205.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,2,7",
+        "headline": "2月7号",
+        "text": "晒太阳真舒服，耶~",
+        "asset": {
+          "media": "images/little_bean/20160207.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,2,8",
+        "headline": "2月8号",
+        "text": "旋转木马啦啦啦啦",
+        "asset": {
+          "media": "images/little_bean/20160208.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,2,9",
+        "headline": "2月9号",
+        "text": "晒鞋子，我是爱劳动的好孩子",
+        "asset": {
+          "media": "images/little_bean/20160209.jpg",
+          "credit": "",
+          "caption": ""
+        }
       }
     ]
   }
