@@ -777,6 +777,26 @@
         }
       },
       {
+        "startDate": "2015,10,31",
+        "headline": "10月31号",
+        "text": "大拳击，好怕怕",
+        "asset": {
+          "media": "images/little_bean/20151031.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,17",
+        "headline": "1月17号",
+        "text": "阿宝的爸爸，给我来碗面面",
+        "asset": {
+          "media": "images/little_bean/20160117.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2016,2,5",
         "headline": "2月5号",
         "text": "爸爸看我长高了没有",
