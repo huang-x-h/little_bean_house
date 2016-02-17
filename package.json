@@ -5,9 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "build:image": "node scripts/image.js",
     "postinstall": "./node_modules/bower/bin/bower install"
   },
   "dependencies": {
+    "bluebird": "^3.3.1",
     "bower": "^1.4.1",
     "express": "~4.9.x",
     "jade": "^1.9.2"
@@ -17,12 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "git@github.com:huang-x-h/little_bean_house.git"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
+    "littlebean"
   ],
   "license": "MIT"
 }
