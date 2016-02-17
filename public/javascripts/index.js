@@ -22,7 +22,7 @@ $(document).ready(function () {
 
         showPopup = true;
         $('.media-image').magnificPopup({
-            items: data.timeline.date.map(function (item) {
+            items: profileData.timeline.date.map(function (item) {
                 return {
                     src: item.asset.media,
                     title: item.text
