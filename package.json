@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build:image": "node scripts/image.js",
+    "build": "node scripts/image.js",
+    "clean": "node scripts/clean.js",
     "postinstall": "./node_modules/bower/bin/bower install"
   },
   "dependencies": {
