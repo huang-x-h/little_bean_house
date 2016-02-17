@@ -787,11 +787,61 @@
         }
       },
       {
+        "startDate": "2016,1,1",
+        "headline": "1月1号",
+        "text": "天气不错，和爸爸出去晒太阳",
+        "asset": {
+          "media": "images/little_bean/20160101.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2016,1,17",
         "headline": "1月17号",
         "text": "阿宝的爸爸，给我来碗面面",
         "asset": {
           "media": "images/little_bean/20160117.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,23",
+        "headline": "1月23号",
+        "text": "下雪了，爸爸带我去踩雪",
+        "asset": {
+          "media": "images/little_bean/20160123.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,24",
+        "headline": "1月24号",
+        "text": "我帮奶奶打鸡蛋，爸爸给我扎得头发真是太难看了",
+        "asset": {
+          "media": "images/little_bean/20160124.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,25",
+        "headline": "1月25号",
+        "text": "耶~",
+        "asset": {
+          "media": "images/little_bean/20160125.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,29",
+        "headline": "1月29号",
+        "text": "呆萌豆",
+        "asset": {
+          "media": "images/little_bean/20160129.jpg",
           "credit": "",
           "caption": ""
         }
