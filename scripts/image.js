@@ -2,7 +2,7 @@
  * Created by huangxinghui on 2016/1/14.
  */
 
-var im = require('imagemagick');
+var gm = require('gm');
 var moment = require('moment');
 var Promise = require('bluebird');
 var fs = require('fs');
@@ -44,7 +44,6 @@ function changeTempName(filePath, callback) {
   var rs = fs.createReadStream(path.join(untrimmedPath, filePath));
   rs.pipe(fs.createWriteStream(path.join(trimPath, hashName + fileExt)));
   rs.on('end', function() {
-    //fs.unlink(path.join(untrimmedPath, filePath));
     callback(hashName);
   });
 }
@@ -52,23 +51,21 @@ function changeTempName(filePath, callback) {
 function convertImage(fileName, destPath, resolve) {
   var filePath = path.join(trimPath, fileName + fileExt);
 
-  im.readMetadata(filePath, function(err, metadata) {
+  gm(filePath).identify(function(err, metadata) {
     if (err) throw err;
 
-    var originalDate = moment(metadata.exif.dateTimeOriginal);
+    var originalDate = moment(metadata['Profile-EXIF']['Date Time Original'], 'YYYY:MM:DD HH:mm:ss');
     var newFileName = originalDate.format('YYYYMMDD') + fileExt;
 
     fs.createReadStream(filePath).pipe(
         fs.createWriteStream(path.join(originalPath, newFileName)));
 
-    im.resize({
-      srcPath: filePath,
-      dstPath: path.join(destPath, newFileName),
-      width: 750
-    }, function(err, stdout, stderr) {
-      if (err) throw err;
-      console.log('resized', filePath);
-    });
+    gm(filePath)
+        .resize(750)
+        .write(path.join(destPath, newFileName),  function(err, stdout, stderr) {
+          if (err) throw err;
+          console.log('resized', filePath);
+        });
 
     var data = {};
     data.startDate = originalDate.format('YYYY,M,D');
@@ -79,6 +76,8 @@ function convertImage(fileName, destPath, resolve) {
       credit: '',
       caption: ''
     };
+
+    console.log(originalDate);
 
     resolve(data);
   });
