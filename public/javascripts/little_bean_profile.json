@@ -927,6 +927,16 @@
         }
       },
       {
+        "startDate": "2016,3,8",
+        "headline": "3月8号",
+        "text": "姥姥你看我拉的拉面长不长",
+        "asset": {
+          "media": "images/little_bean/20160308.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2016,3,9",
         "headline": "3月9号",
         "text": "姥姥你看我拉的拉面长不长",
