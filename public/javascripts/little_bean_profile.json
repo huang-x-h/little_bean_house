@@ -975,6 +975,56 @@
           "credit": "",
           "caption": ""
         }
+      },
+      {
+        "startDate": "2016,4,2",
+        "headline": "4月2号",
+        "text": "豆子学拼积木",
+        "asset": {
+          "media": "images/little_bean/20160402.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,4,3",
+        "headline": "4月3号",
+        "text": "豆子会自己摘菜",
+        "asset": {
+          "media": "images/little_bean/20160403.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,4,9",
+        "headline": "4月9号",
+        "text": "亲子班超爱小滑梯",
+        "asset": {
+          "media": "images/little_bean/20160409.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,4,16",
+        "headline": "4月16号",
+        "text": "豆子会自己洗脚",
+        "asset": {
+          "media": "images/little_bean/20160416.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,4,17",
+        "headline": "4月17号",
+        "text": "坐着鳄鱼吃西梅泥",
+        "asset": {
+          "media": "images/little_bean/20160417.jpg",
+          "credit": "",
+          "caption": ""
+        }
       }
     ]
   }
