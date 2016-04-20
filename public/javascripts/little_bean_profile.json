@@ -167,6 +167,16 @@
         }
       },
       {
+        "startDate": "2014,11,14",
+        "headline": "11月14号",
+        "text": "拉伸我的小蛮腰",
+        "asset": {
+          "media": "images/little_bean/20141114-163546.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2014,11,19",
         "headline": "11月19号",
         "text": "我的新玩具，拨浪鼓",
@@ -182,6 +192,16 @@
         "text": "戴个帽子，漂不漂亮",
         "asset": {
           "media": "images/little_bean/20141125.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,11,27",
+        "headline": "11月27号",
+        "text": "我要睡觉",
+        "asset": {
+          "media": "images/little_bean/20141127-193305.jpg",
           "credit": "",
           "caption": ""
         }
@@ -217,6 +237,16 @@
         }
       },
       {
+        "startDate": "2014,12,23",
+        "headline": "12月23号",
+        "text": "看我柔美的曲线",
+        "asset": {
+          "media": "images/little_bean/20141223-104908.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2014,12,31",
         "headline": "12月31号",
         "text": "背带照",
@@ -232,6 +262,16 @@
         "text": "我美吗",
         "asset": {
           "media": "images/little_bean/20150103.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,1,14",
+        "headline": "1月14号",
+        "text": "看我乖不乖",
+        "asset": {
+          "media": "images/little_bean/20150114-112244.jpg",
           "credit": "",
           "caption": ""
         }
@@ -262,6 +302,16 @@
         "text": "看，我会自己坐了，厉害吧",
         "asset": {
           "media": "images/little_bean/20150130.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,1,31",
+        "headline": "1月31号",
+        "text": "小美女出浴",
+        "asset": {
+          "media": "images/little_bean/20150131-134252.jpg",
           "credit": "",
           "caption": ""
         }
@@ -307,6 +357,36 @@
         }
       },
       {
+        "startDate": "2015,2,20",
+        "headline": "2月20号",
+        "text": "乘坐三轮车",
+        "asset": {
+          "media": "images/little_bean/20150220-110107.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,3,7",
+        "headline": "3月7号",
+        "text": "我是一只鱼，我会吐泡泡",
+        "asset": {
+          "media": "images/little_bean/20150307-191938.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,3,12",
+        "headline": "3月12号",
+        "text": "发烧了，好难受",
+        "asset": {
+          "media": "images/little_bean/20150312-122802.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,3,17",
         "headline": "8个月",
         "text": "8个月，橙子的味道真是棒极了",
@@ -337,11 +417,31 @@
         }
       },
       {
+        "startDate": "2015,4,5",
+        "headline": "4月5号",
+        "text": "粑粑，你这里写错了，会溢出看到没",
+        "asset": {
+          "media": "images/little_bean/20150405-134614.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,4,11",
         "headline": "4月11号",
         "text": "快来，这是我的城堡",
         "asset": {
           "media": "images/little_bean/20150411.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,4,11",
+        "headline": "4月11号",
+        "text": "这凳子不错",
+        "asset": {
+          "media": "images/little_bean/20150411-163430.jpg",
           "credit": "",
           "caption": ""
         }
@@ -432,6 +532,16 @@
         "text": "我要大口大口吃苹果，啊呜",
         "asset": {
           "media": "images/little_bean/20150517.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,5,24",
+        "headline": "5月24号",
+        "text": "我要和海马睡觉",
+        "asset": {
+          "media": "images/little_bean/20150524-180108.jpg",
           "credit": "",
           "caption": ""
         }
@@ -557,11 +667,51 @@
         }
       },
       {
+        "startDate": "2015,7,11",
+        "headline": "7月11号",
+        "text": "这是我的小雨伞",
+        "asset": {
+          "media": "images/little_bean/20150711-203839.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,7,12",
         "headline": "7月12号",
         "text": "吃自助餐",
         "asset": {
           "media": "images/little_bean/20150712.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,7,12",
+        "headline": "7月12号",
+        "text": "苹果",
+        "asset": {
+          "media": "images/little_bean/20150712-203942.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,7,14",
+        "headline": "7月14号",
+        "text": "脚脚，我要吃掉你",
+        "asset": {
+          "media": "images/little_bean/20150714-171915.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,7,14",
+        "headline": "7月14号",
+        "text": "嘿嘿，妈妈的眼镜",
+        "asset": {
+          "media": "images/little_bean/20150714-173346.jpg",
           "credit": "",
           "caption": ""
         }
@@ -632,6 +782,56 @@
         "text": "吓到本宝宝了",
         "asset": {
           "media": "images/little_bean/20150801.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,8,8",
+        "headline": "8月8号",
+        "text": "我是抓虾好手",
+        "asset": {
+          "media": "images/little_bean/20150808-085903.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,8,8",
+        "headline": "8月8号",
+        "text": "嗨",
+        "asset": {
+          "media": "images/little_bean/20150808-130030.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,8,9",
+        "headline": "8月9号",
+        "text": "麻麻的鞋，好漂亮",
+        "asset": {
+          "media": "images/little_bean/20150809-172207.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,8,9",
+        "headline": "8月9号",
+        "text": "粑粑的肩膀好舒服",
+        "asset": {
+          "media": "images/little_bean/20150809-160924.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,8,12",
+        "headline": "8月12号",
+        "text": "还是睡觉最舒服",
+        "asset": {
+          "media": "images/little_bean/20150812-070741.jpg",
           "credit": "",
           "caption": ""
         }
