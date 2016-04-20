@@ -55,11 +55,13 @@ function convertImage(fileName, destPath, resolve) {
     if (err) throw err;
 
     var originalDate = moment(metadata['Profile-EXIF']['Date Time Original'], 'YYYY:MM:DD HH:mm:ss');
-    var newFileName = originalDate.format('YYYYMMDD') + fileExt;
+    var newFileName = originalDate.format('YYYYMMDD-HHmmss') + fileExt;
 
+    // copy original image order by dateTimeOriginal
     fs.createReadStream(filePath).pipe(
         fs.createWriteStream(path.join(originalPath, newFileName)));
 
+    // resize image
     gm(filePath)
         .resize(750)
         .write(path.join(destPath, newFileName),  function(err, stdout, stderr) {
@@ -76,8 +78,6 @@ function convertImage(fileName, destPath, resolve) {
       credit: '',
       caption: ''
     };
-
-    console.log(originalDate);
 
     resolve(data);
   });
