@@ -349,9 +349,9 @@
       {
         "startDate": "2015,2,20",
         "headline": "2月20号",
-        "text": "我和小动物的合影",
+        "text": "乘坐三轮车",
         "asset": {
-          "media": "images/little_bean/20150220.jpg",
+          "media": "images/little_bean/20150220-110107.jpg",
           "credit": "",
           "caption": ""
         }
@@ -359,9 +359,9 @@
       {
         "startDate": "2015,2,20",
         "headline": "2月20号",
-        "text": "乘坐三轮车",
+        "text": "我和小动物的合影",
         "asset": {
-          "media": "images/little_bean/20150220-110107.jpg",
+          "media": "images/little_bean/20150220.jpg",
           "credit": "",
           "caption": ""
         }
@@ -429,9 +429,9 @@
       {
         "startDate": "2015,4,11",
         "headline": "4月11号",
-        "text": "快来，这是我的城堡",
+        "text": "这凳子不错",
         "asset": {
-          "media": "images/little_bean/20150411.jpg",
+          "media": "images/little_bean/20150411-163430.jpg",
           "credit": "",
           "caption": ""
         }
@@ -439,9 +439,9 @@
       {
         "startDate": "2015,4,11",
         "headline": "4月11号",
-        "text": "这凳子不错",
+        "text": "快来，这是我的城堡",
         "asset": {
-          "media": "images/little_bean/20150411-163430.jpg",
+          "media": "images/little_bean/20150411.jpg",
           "credit": "",
           "caption": ""
         }
@@ -679,9 +679,9 @@
       {
         "startDate": "2015,7,12",
         "headline": "7月12号",
-        "text": "吃自助餐",
+        "text": "苹果",
         "asset": {
-          "media": "images/little_bean/20150712.jpg",
+          "media": "images/little_bean/20150712-203942.jpg",
           "credit": "",
           "caption": ""
         }
@@ -689,9 +689,9 @@
       {
         "startDate": "2015,7,12",
         "headline": "7月12号",
-        "text": "苹果",
+        "text": "吃自助餐",
         "asset": {
-          "media": "images/little_bean/20150712-203942.jpg",
+          "media": "images/little_bean/20150712.jpg",
           "credit": "",
           "caption": ""
         }
@@ -809,9 +809,9 @@
       {
         "startDate": "2015,8,9",
         "headline": "8月9号",
-        "text": "麻麻的鞋，好漂亮",
+        "text": "粑粑的肩膀好舒服",
         "asset": {
-          "media": "images/little_bean/20150809-172207.jpg",
+          "media": "images/little_bean/20150809-160924.jpg",
           "credit": "",
           "caption": ""
         }
@@ -819,9 +819,9 @@
       {
         "startDate": "2015,8,9",
         "headline": "8月9号",
-        "text": "粑粑的肩膀好舒服",
+        "text": "麻麻的鞋，好漂亮",
         "asset": {
-          "media": "images/little_bean/20150809-160924.jpg",
+          "media": "images/little_bean/20150809-172207.jpg",
           "credit": "",
           "caption": ""
         }
@@ -1225,7 +1225,148 @@
           "credit": "",
           "caption": ""
         }
-      }
+      },
+      {
+        "startDate": "2016,4,23",
+        "headline": "4月23号",
+        "text": "哼着小曲洗着衣服，盆里好多泡泡",
+        "asset": {
+          "media": "images/little_bean/20160423-174322.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,4,26",
+        "headline": "4月26号",
+        "text": "穿好雨衣雨鞋出去踩水喽",
+        "asset": {
+          "media": "images/little_bean/20160426-195926.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,1",
+        "headline": "5月1号",
+        "text": "好多泥鳅，爸爸快来抓呀",
+        "asset": {
+          "media": "images/little_bean/20160501-083031.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,1",
+        "headline": "5月1号",
+        "text": "脏衣服要堆成山了，我来洗洗吧",
+        "asset": {
+          "media": "images/little_bean/20160501-085627.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,1",
+        "headline": "5月1号",
+        "text": "大口大口吃西瓜",
+        "asset": {
+          "media": "images/little_bean/20160501-122517.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,1",
+        "headline": "5月1号",
+        "text": "鸡爪真好吃",
+        "asset": {
+          "media": "images/little_bean/20160501-180405.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,4",
+        "headline": "5月4号",
+        "text": "早上的空气真好",
+        "asset": {
+          "media": "images/little_bean/20160504-071014.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,7",
+        "headline": "5月7号",
+        "text": "我可以站在这里半个小时都不累",
+        "asset": {
+          "media": "images/little_bean/20160507-114607.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,11",
+        "headline": "5月11号",
+        "text": "我爱骑马，驾~",
+        "asset": {
+          "media": "images/little_bean/20160511-184722.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,12",
+        "headline": "5月12号",
+        "text": "老师给娃我化妆了，美美哒",
+        "asset": {
+          "media": "images/little_bean/20160512-203450.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,14",
+        "headline": "5月14号",
+        "text": "小火车呜呜",
+        "asset": {
+          "media": "images/little_bean/20160514-092620.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,14",
+        "headline": "5月14号",
+        "text": "好漂亮的蝴蝶",
+        "asset": {
+          "media": "images/little_bean/20160514-095423.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,14",
+        "headline": "5月14号",
+        "text": "我和妈妈和奶奶",
+        "asset": {
+          "media": "images/little_bean/20160514-100338.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,5,14",
+        "headline": "5月14号",
+        "text": "拍个照吧，耶~",
+        "asset": {
+          "media": "images/little_bean/20160514-100731.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      null
     ]
   }
 }
