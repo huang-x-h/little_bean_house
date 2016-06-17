@@ -3,7 +3,9 @@
  */
 
 var fs = require('fs');
-var profile = require('../public/javascripts/little_bean_profile.json');
+var path = require('path');
+var profilePath = path.resolve(__dirname, '../public/javascripts/little_bean_profile.json');
+var profile = require(profilePath);
 
 function refreshProfile(data) {
   var result = profile.timeline.date.concat(data);
@@ -18,7 +20,7 @@ function refreshProfile(data) {
 
   profile.timeline.date = result;
 
-  fs.writeFile('../public/javascripts/little_bean_profile.json', JSON.stringify(profile), function(err) {
+  fs.writeFile(profilePath, JSON.stringify(profile), function(err) {
     if (err) console.error(err);
 
     console.log('Profile refresh success.');
