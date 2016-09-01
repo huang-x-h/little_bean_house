@@ -879,6 +879,36 @@
       {
         "startDate": "2015,9,12",
         "headline": "9月12号",
+        "text": "嘿嘿，我的狗狗",
+        "asset": {
+          "media": "images/little_bean/20150912-133106.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,12",
+        "headline": "9月12号",
+        "text": "这是我的发套，酷酷",
+        "asset": {
+          "media": "images/little_bean/20150912-134310.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,12",
+        "headline": "9月12号",
+        "text": "摇摇马，好喜欢",
+        "asset": {
+          "media": "images/little_bean/20150912-135743.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,12",
+        "headline": "9月12号",
         "text": "我也要吃西餐",
         "asset": {
           "media": "images/little_bean/20150912.jpg",
@@ -899,9 +929,79 @@
       {
         "startDate": "2015,9,19",
         "headline": "9月19号",
+        "text": "唔，好吃",
+        "asset": {
+          "media": "images/little_bean/20150919-095230.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,19",
+        "headline": "9月19号",
         "text": "唉～～～，我看到你喽",
         "asset": {
           "media": "images/little_bean/20150919.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,20",
+        "headline": "9月20号",
+        "text": "这是什么呀，看看",
+        "asset": {
+          "media": "images/little_bean/20150920-104234.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,20",
+        "headline": "9月20号",
+        "text": "粑粑，我要开车车放音乐",
+        "asset": {
+          "media": "images/little_bean/20150920-151348.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,20",
+        "headline": "9月20号",
+        "text": "圣诞老人摇摇",
+        "asset": {
+          "media": "images/little_bean/20150920-155630.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,20",
+        "headline": "9月20号",
+        "text": "小老虎摇摇",
+        "asset": {
+          "media": "images/little_bean/20150920-155756.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,20",
+        "headline": "9月20号",
+        "text": "我要开车车",
+        "asset": {
+          "media": "images/little_bean/20150920-155920.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,20",
+        "headline": "9月20号",
+        "text": "在等批萨",
+        "asset": {
+          "media": "images/little_bean/20150920-164617.jpg",
           "credit": "",
           "caption": ""
         }
@@ -987,6 +1087,86 @@
         }
       },
       {
+        "startDate": "2015,11,21",
+        "headline": "11月21号",
+        "text": "戴上墨镜酷酷哒",
+        "asset": {
+          "media": "images/little_bean/20151121-154049.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,11,21",
+        "headline": "11月21号",
+        "text": "摘掉墨镜美美哒",
+        "asset": {
+          "media": "images/little_bean/20151121-154104.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,11,22",
+        "headline": "11月22号",
+        "text": "阿姨送我的皮草外套",
+        "asset": {
+          "media": "images/little_bean/20151122-090734.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,11,22",
+        "headline": "11月22号",
+        "text": "妈妈做的酸奶味道棒极了，你要不要来一口？",
+        "asset": {
+          "media": "images/little_bean/20151122-101659.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,11,24",
+        "headline": "11月24号",
+        "text": "和爸爸一起回忆小豆子小时候",
+        "asset": {
+          "media": "images/little_bean/20151124-202609.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,12,10",
+        "headline": "12月10号",
+        "text": "我敢抓鱼，你呢",
+        "asset": {
+          "media": "images/little_bean/20151210-204800.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,12,12",
+        "headline": "12月12号",
+        "text": "妈妈的寿面",
+        "asset": {
+          "media": "images/little_bean/20151212-115508.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,12,26",
+        "headline": "12月26号",
+        "text": "大王背我来巡山",
+        "asset": {
+          "media": "images/little_bean/20151226-162345.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,12,27",
         "headline": "12月27号",
         "text": "咳嗽了做雾化",
@@ -1002,6 +1182,76 @@
         "text": "天气不错，和爸爸出去晒太阳",
         "asset": {
           "media": "images/little_bean/20160101.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,15",
+        "headline": "1月15号",
+        "text": "妈妈给我买的扭扭车，我们来拼装吧",
+        "asset": {
+          "media": "images/little_bean/20160115-192656.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,17",
+        "headline": "1月17号",
+        "text": "我最爱小鸭子",
+        "asset": {
+          "media": "images/little_bean/20160117-103523.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,17",
+        "headline": "1月17号",
+        "text": "大公鸡摇摇",
+        "asset": {
+          "media": "images/little_bean/20160117-103731.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,17",
+        "headline": "1月17号",
+        "text": "哎，你该减肥了",
+        "asset": {
+          "media": "images/little_bean/20160117-105453.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,17",
+        "headline": "1月17号",
+        "text": "比比谁更美腻",
+        "asset": {
+          "media": "images/little_bean/20160117-105721.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,17",
+        "headline": "1月17号",
+        "text": "熊猫豆豆",
+        "asset": {
+          "media": "images/little_bean/20160117-105743.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,1,17",
+        "headline": "1月17号",
+        "text": "Master",
+        "asset": {
+          "media": "images/little_bean/20160117-110108.jpg",
           "credit": "",
           "caption": ""
         }
@@ -1069,6 +1319,26 @@
       {
         "startDate": "2016,2,7",
         "headline": "2月7号",
+        "text": "爸爸快看那是什么",
+        "asset": {
+          "media": "images/little_bean/20160207-095301.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,2,7",
+        "headline": "2月7号",
+        "text": "我是孙悟空",
+        "asset": {
+          "media": "images/little_bean/20160207-180505.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,2,7",
+        "headline": "2月7号",
         "text": "晒太阳真舒服，耶~",
         "asset": {
           "media": "images/little_bean/20160207.jpg",
@@ -1089,9 +1359,39 @@
       {
         "startDate": "2016,2,9",
         "headline": "2月9号",
+        "text": "姜太公钓鱼",
+        "asset": {
+          "media": "images/little_bean/20160209-132129.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,2,9",
+        "headline": "2月9号",
+        "text": "锻炼身体",
+        "asset": {
+          "media": "images/little_bean/20160209-133432.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,2,9",
+        "headline": "2月9号",
         "text": "晒鞋子，我是爱劳动的好孩子",
         "asset": {
           "media": "images/little_bean/20160209.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,2,11",
+        "headline": "2月11号",
+        "text": "浇花",
+        "asset": {
+          "media": "images/little_bean/20160211-094922.jpg",
           "credit": "",
           "caption": ""
         }
