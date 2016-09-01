@@ -19,22 +19,76 @@ var fileExt = '.jpg';
 fs.readdir(untrimmedPath, function(err, files) {
   if (err) return;
 
-  var promises = [];
-  // change chinese name, because imagemagick dose not known
-  files.forEach(function(file) {
+  eachLimit(files, 5, function(file) {
     if (fs.statSync(path.join(untrimmedPath, file)).isFile()) {
-      promises.push(new Promise(function(resolve, reject) {
+      return new Promise(function(resolve, reject) {
         changeTempName(file, function(fileName) {
           convertImage(fileName, destPath, resolve);
         });
-      }));
+      });
+    } else {
+      Promise.resolve()
     }
-  });
+  }).then(function(data) {
+    data = data.filter(function(item) {
+      return item ? true : false;
+    });
 
-  Promise.all(promises).then(function(data) {
     profile.refreshProfile(data);
-  })
+  });
 });
+
+function createArrayIterator(coll) {
+  var i = -1;
+  var len = coll.length;
+  return function next() {
+    return ++i < len ? {value: coll[i], key: i} : null;
+  }
+}
+
+function eachLimit(coll, limit, iteratee) {
+  if (limit <= 0 || !coll) return Promise.resolve();
+
+  var result = [];
+  var done = false;
+  var running = 0;
+  var nextElem = createArrayIterator(coll);
+
+  function replenish() {
+    return new Promise(function(resolve, reject) {
+      while (running < limit && !done) {
+        var elem = nextElem();
+        if (elem === null) {
+          done = true;
+          if (running <= 0) {
+            resolve(result);
+          }
+          return;
+        }
+
+        running++;
+
+        ((value, key, iterator) => {
+          iterator(value, key).then(function(data) {
+            result[key] = data;
+            running--;
+            if (done && running <= 0) {
+              resolve(result);
+            } else {
+              replenish().then(resolve, reject)
+            }
+          }).catch(function(e) {
+            running--;
+            done = true;
+            reject(e);
+          });
+        })(elem.value, elem.key, iteratee);
+      }
+    });
+  }
+
+  return replenish();
+}
 
 function changeTempName(filePath, callback) {
   var fileName = path.basename(filePath, fileExt.toUpperCase());
