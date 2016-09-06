@@ -127,6 +127,26 @@
         }
       },
       {
+        "startDate": "2014,9,22",
+        "headline": "9月22号",
+        "text": "小手肥嘟嘟",
+        "asset": {
+          "media": "images/little_bean/20140922-120323.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014,9,24",
+        "headline": "9月24号",
+        "text": "双层下巴",
+        "asset": {
+          "media": "images/little_bean/20140924-135545.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2014,10,5",
         "headline": "10月5号",
         "text": "快来，和粑粑亲亲",
@@ -2262,6 +2282,76 @@
         "text": "妈妈，我要抱抱",
         "asset": {
           "media": "images/little_bean/20160724-100755.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,7,30",
+        "headline": "7月30号",
+        "text": "小豆子爱上课，看我多认真",
+        "asset": {
+          "media": "images/little_bean/20160730-104308.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,7,31",
+        "headline": "7月31号",
+        "text": "骑着我的小电驴",
+        "asset": {
+          "media": "images/little_bean/20160731-180617.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,8,6",
+        "headline": "8月6号",
+        "text": "开着爸爸的车车出去玩喽",
+        "asset": {
+          "media": "images/little_bean/20160806-112234.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,8,6",
+        "headline": "8月6号",
+        "text": "韵韵姐姐我们出去玩吧",
+        "asset": {
+          "media": "images/little_bean/20160806-193452.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,8,7",
+        "headline": "8月7号",
+        "text": "小飞机好快啊",
+        "asset": {
+          "media": "images/little_bean/20160807-104911.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,8,7",
+        "headline": "8月7号",
+        "text": "和爸爸一起坐小火车",
+        "asset": {
+          "media": "images/little_bean/20160807-112609.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,8,7",
+        "headline": "8月7号",
+        "text": "玩累了，睡一觉吧",
+        "asset": {
+          "media": "images/little_bean/20160807-135228.jpg",
           "credit": "",
           "caption": ""
         }
