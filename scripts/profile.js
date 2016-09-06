@@ -27,8 +27,6 @@ function refreshProfile(data) {
   })
 }
 
-refreshProfile();
-
 module.exports = {
   refreshProfile: refreshProfile
 };
