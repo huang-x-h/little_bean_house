@@ -1039,6 +1039,16 @@
       {
         "startDate": "2015,9,24",
         "headline": "9月24号",
+        "text": "妈妈买的摇摇马",
+        "asset": {
+          "media": "images/little_bean/20150924-204125.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,9,24",
+        "headline": "9月24号",
         "text": "我的摇摇马，嘿嘿",
         "asset": {
           "media": "images/little_bean/20150924.jpg",
@@ -1077,11 +1087,171 @@
         }
       },
       {
+        "startDate": "2015,10,3",
+        "headline": "10月3号",
+        "text": "娃娃们，我来啦",
+        "asset": {
+          "media": "images/little_bean/20151003-131620.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2015,10,5",
         "headline": "10月5号",
-        "text": "南京浦口火车站，拍摄情深深雨蒙蒙的地方",
+        "text": "情深深雨蒙蒙，我和妈妈",
         "asset": {
-          "media": "images/little_bean/20151005.jpg",
+          "media": "images/little_bean/20151005-100400.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,5",
+        "headline": "10月5号",
+        "text": "粑粑带我坐大轮船",
+        "asset": {
+          "media": "images/little_bean/20151005-101723.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,5",
+        "headline": "10月5号",
+        "text": "做鬼脸比赛",
+        "asset": {
+          "media": "images/little_bean/20151005-105203.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,5",
+        "headline": "10月5号",
+        "text": "好吧你赢了",
+        "asset": {
+          "media": "images/little_bean/20151005-105631.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,5",
+        "headline": "10月5号",
+        "text": "电子书",
+        "asset": {
+          "media": "images/little_bean/20151005-110437.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,11",
+        "headline": "10月11号",
+        "text": "我们的背影",
+        "asset": {
+          "media": "images/little_bean/20151011-101138.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "小豆子闻音乐起舞",
+        "asset": {
+          "media": "images/little_bean/20151018-104310.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "宣武门",
+        "asset": {
+          "media": "images/little_bean/20151018-105650.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "玄武湖边静坐1",
+        "asset": {
+          "media": "images/little_bean/20151018-110656.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "玄武湖边静坐2",
+        "asset": {
+          "media": "images/little_bean/20151018-111119.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "啃玉米比赛",
+        "asset": {
+          "media": "images/little_bean/20151018-114202.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "和姥姥姥爷的合影",
+        "asset": {
+          "media": "images/little_bean/20151018-121720.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "奔跑吧小豆子",
+        "asset": {
+          "media": "images/little_bean/20151018-122728.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "哇",
+        "asset": {
+          "media": "images/little_bean/20151018-123100.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "鸡鸣寺前",
+        "asset": {
+          "media": "images/little_bean/20151018-123734.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015,10,18",
+        "headline": "10月18号",
+        "text": "本公主累了，起驾~",
+        "asset": {
+          "media": "images/little_bean/20151018-124754.jpg",
           "credit": "",
           "caption": ""
         }
@@ -2527,6 +2697,16 @@
         }
       },
       {
+        "startDate": "2016,9,25",
+        "headline": "9月25号",
+        "text": "学校五棵松",
+        "asset": {
+          "media": "images/little_bean/20160925-144758.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2016,9,28",
         "headline": "9月28号",
         "text": "十一和妈妈一起去姥姥家，坐飞机好兴奋，飞机还没起飞，小豆子往外看了一眼说，哇好高啊~",
@@ -2587,11 +2767,491 @@
         }
       },
       {
+        "startDate": "2016,10,6",
+        "headline": "10月6号",
+        "text": "我要吃柚子",
+        "asset": {
+          "media": "images/little_bean/20161006-131001.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
         "startDate": "2016,10,15",
         "headline": "10月15号",
         "text": "小姑带着妹妹来豆子家，小豆子做了一回懂事的小主人",
         "asset": {
           "media": "images/little_bean/20161015-185904.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,10,22",
+        "headline": "10月22号",
+        "text": "小豆子认真的跟老师学跳舞",
+        "asset": {
+          "media": "images/little_bean/20161022-095003.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,10,22",
+        "headline": "10月22号",
+        "text": "刷螃蟹",
+        "asset": {
+          "media": "images/little_bean/20161022-110257.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,10,23",
+        "headline": "10月23号",
+        "text": "来，摆个pose吧",
+        "asset": {
+          "media": "images/little_bean/20161023-165023.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,10,29",
+        "headline": "10月29号",
+        "text": "杂技表演",
+        "asset": {
+          "media": "images/little_bean/20161029-111457.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,5",
+        "headline": "11月5号",
+        "text": "带着巧虎坐公交",
+        "asset": {
+          "media": "images/little_bean/20161105-161110.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,6",
+        "headline": "11月6号",
+        "text": "跟小头爸爸悄悄的合影",
+        "asset": {
+          "media": "images/little_bean/20161106-111152.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,6",
+        "headline": "11月6号",
+        "text": "捞鱼",
+        "asset": {
+          "media": "images/little_bean/20161106-133029.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,6",
+        "headline": "11月6号",
+        "text": "我们在江边",
+        "asset": {
+          "media": "images/little_bean/20161106-133548.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,6",
+        "headline": "11月6号",
+        "text": "祖孙俩的背影",
+        "asset": {
+          "media": "images/little_bean/20161106-133906.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,6",
+        "headline": "11月6号",
+        "text": "为什么捞不到鱼呢",
+        "asset": {
+          "media": "images/little_bean/20161106-134640.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,12",
+        "headline": "11月12号",
+        "text": "我爱挖沙子",
+        "asset": {
+          "media": "images/little_bean/20161112-105330.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,12",
+        "headline": "11月12号",
+        "text": "我要飞的更高",
+        "asset": {
+          "media": "images/little_bean/20161112-113641.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,19",
+        "headline": "11月19号",
+        "text": "意大利面，我的最爱",
+        "asset": {
+          "media": "images/little_bean/20161119-182620.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,20",
+        "headline": "11月20号",
+        "text": "摆拍",
+        "asset": {
+          "media": "images/little_bean/20161120-105706.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,26",
+        "headline": "11月26号",
+        "text": "耶~我毕业了",
+        "asset": {
+          "media": "images/little_bean/20161126-094906.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,26",
+        "headline": "11月26号",
+        "text": "漂亮的毕业服",
+        "asset": {
+          "media": "images/little_bean/20161126-095104.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,26",
+        "headline": "11月26号",
+        "text": "两只狗吃了小豆子的饼干一直跟着，小豆子说我没有饼干啦",
+        "asset": {
+          "media": "images/little_bean/20161126-104559.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,27",
+        "headline": "11月27号",
+        "text": "我也要吃",
+        "asset": {
+          "media": "images/little_bean/20161127-122549.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,27",
+        "headline": "11月27号",
+        "text": "第一次吃冰淇凌，味道真是棒极了",
+        "asset": {
+          "media": "images/little_bean/20161127-123540.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,27",
+        "headline": "11月27号",
+        "text": "大虾",
+        "asset": {
+          "media": "images/little_bean/20161127-135202.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,27",
+        "headline": "11月27号",
+        "text": "鸿霖门口的女侍者，小豆子说这是猴子。。。设计师哭了。。。",
+        "asset": {
+          "media": "images/little_bean/20161127-140715.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,11,27",
+        "headline": "11月27号",
+        "text": "本宝宝要睡觉了",
+        "asset": {
+          "media": "images/little_bean/20161127-155719.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016,12,12",
+        "headline": "12月12号",
+        "text": "中午做点什么吃呢，伤脑筋中",
+        "asset": {
+          "media": "images/little_bean/20161212-193635.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,1,27",
+        "headline": "1月27号",
+        "text": "酷酷的眼镜，嘿",
+        "asset": {
+          "media": "images/little_bean/20170127-100004.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,1,27",
+        "headline": "1月27号",
+        "text": "又戴上我的兔耳朵了",
+        "asset": {
+          "media": "images/little_bean/20170127-212012.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,1,29",
+        "headline": "1月29号",
+        "text": "我爱劳动",
+        "asset": {
+          "media": "images/little_bean/20170129-094909.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,1,30",
+        "headline": "1月30号",
+        "text": "一起挖沙子",
+        "asset": {
+          "media": "images/little_bean/20170130-121548.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,1,31",
+        "headline": "1月31号",
+        "text": "一起捞泥鳅",
+        "asset": {
+          "media": "images/little_bean/20170131-124253.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,2",
+        "headline": "2月2号",
+        "text": "我的爸爸是大力士",
+        "asset": {
+          "media": "images/little_bean/20170202-124251.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,4",
+        "headline": "2月4号",
+        "text": "该回家了，火车来喽",
+        "asset": {
+          "media": "images/little_bean/20170204-085539.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,4",
+        "headline": "2月4号",
+        "text": "耶，拜拜",
+        "asset": {
+          "media": "images/little_bean/20170204-085554.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,9",
+        "headline": "2月9号",
+        "text": "我在练习骑车",
+        "asset": {
+          "media": "images/little_bean/20170209-205612.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,12",
+        "headline": "2月12号",
+        "text": "去捞鱼喽，爸爸等等我呀",
+        "asset": {
+          "media": "images/little_bean/20170212-100832.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,12",
+        "headline": "2月12号",
+        "text": "陪妈妈散步",
+        "asset": {
+          "media": "images/little_bean/20170212-101226.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,12",
+        "headline": "2月12号",
+        "text": "一样的pose",
+        "asset": {
+          "media": "images/little_bean/20170212-102532.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,19",
+        "headline": "2月19号",
+        "text": "猜猜这是哪个地铁站",
+        "asset": {
+          "media": "images/little_bean/20170219-102227.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,19",
+        "headline": "2月19号",
+        "text": "秦淮长廊",
+        "asset": {
+          "media": "images/little_bean/20170219-111849.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,19",
+        "headline": "2月19号",
+        "text": "耶，坐轮船咯",
+        "asset": {
+          "media": "images/little_bean/20170219-111957.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,19",
+        "headline": "2月19号",
+        "text": "和妈妈一起，耶",
+        "asset": {
+          "media": "images/little_bean/20170219-112101.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,19",
+        "headline": "2月19号",
+        "text": "坐船欣赏秦淮河",
+        "asset": {
+          "media": "images/little_bean/20170219-112306.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,19",
+        "headline": "2月19号",
+        "text": "看，我也有花灯",
+        "asset": {
+          "media": "images/little_bean/20170219-121347.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,2,19",
+        "headline": "2月19号",
+        "text": "我的硬币咧",
+        "asset": {
+          "media": "images/little_bean/20170219-131314.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "Invalid date",
+        "headline": "Invalid date",
+        "text": "坐稳了别摔着哦",
+        "asset": {
+          "media": "images/little_bean/Invalid date.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "Invalid date",
+        "headline": "Invalid date",
+        "text": "我的新衣服美吗",
+        "asset": {
+          "media": "images/little_bean/Invalid date.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "Invalid date",
+        "headline": "Invalid date",
+        "text": "一起吃披萨",
+        "asset": {
+          "media": "images/little_bean/Invalid date.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "Invalid date",
+        "headline": "Invalid date",
+        "text": "一起看书",
+        "asset": {
+          "media": "images/little_bean/Invalid date.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "Invalid date",
+        "headline": "Invalid date",
+        "text": "看，好多球.jpg",
+        "asset": {
+          "media": "images/little_bean/Invalid date.jpg",
           "credit": "",
           "caption": ""
         }
