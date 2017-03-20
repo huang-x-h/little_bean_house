@@ -1079,9 +1079,9 @@
       {
         "startDate": "2015,10,3",
         "headline": "10月3号",
-        "text": "好多玩具，哈哈",
+        "text": "娃娃们，我来啦",
         "asset": {
-          "media": "images/little_bean/20151003.jpg",
+          "media": "images/little_bean/20151003-131620.jpg",
           "credit": "",
           "caption": ""
         }
@@ -1089,9 +1089,9 @@
       {
         "startDate": "2015,10,3",
         "headline": "10月3号",
-        "text": "娃娃们，我来啦",
+        "text": "好多玩具，哈哈",
         "asset": {
-          "media": "images/little_bean/20151003-131620.jpg",
+          "media": "images/little_bean/20151003.jpg",
           "credit": "",
           "caption": ""
         }
@@ -3207,51 +3207,151 @@
         }
       },
       {
-        "startDate": "Invalid date",
-        "headline": "Invalid date",
-        "text": "坐稳了别摔着哦",
+        "startDate": "2017,3,10",
+        "headline": "3月10号",
+        "text": "雨中捡贝壳",
         "asset": {
-          "media": "images/little_bean/Invalid date.jpg",
+          "media": "images/little_bean/20170310-173237.jpg",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "Invalid date",
-        "headline": "Invalid date",
-        "text": "我的新衣服美吗",
+        "startDate": "2017,3,11",
+        "headline": "3月11号",
+        "text": "来，盖个章吧",
         "asset": {
-          "media": "images/little_bean/Invalid date.jpg",
+          "media": "images/little_bean/20170311-105900.jpg",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "Invalid date",
-        "headline": "Invalid date",
-        "text": "一起吃披萨",
+        "startDate": "2017,3,11",
+        "headline": "3月11号",
+        "text": "洗呀洗",
         "asset": {
-          "media": "images/little_bean/Invalid date.jpg",
+          "media": "images/little_bean/20170311-165327.jpg",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "Invalid date",
-        "headline": "Invalid date",
-        "text": "一起看书",
+        "startDate": "2017,3,11",
+        "headline": "3月11号",
+        "text": "追泡泡",
         "asset": {
-          "media": "images/little_bean/Invalid date.jpg",
+          "media": "images/little_bean/20170311-171548.jpg",
           "credit": "",
           "caption": ""
         }
       },
       {
-        "startDate": "Invalid date",
-        "headline": "Invalid date",
-        "text": "看，好多球.jpg",
+        "startDate": "2017,3,11",
+        "headline": "3月11号",
+        "text": "光脚丫子踩沙，好痒啊",
         "asset": {
-          "media": "images/little_bean/Invalid date.jpg",
+          "media": "images/little_bean/20170311-173633.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,11",
+        "headline": "3月11号",
+        "text": "这个浪把小豆子冲歪了，然后就再也不敢下水了",
+        "asset": {
+          "media": "images/little_bean/20170311-174258.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,12",
+        "headline": "3月12号",
+        "text": "累了休息一会",
+        "asset": {
+          "media": "images/little_bean/20170312-104309.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,12",
+        "headline": "3月12号",
+        "text": "在沙滩上跑",
+        "asset": {
+          "media": "images/little_bean/20170312-104942.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,12",
+        "headline": "3月12号",
+        "text": "来到了厦门大学，果然很漂亮，我们跑起来吧",
+        "asset": {
+          "media": "images/little_bean/20170312-114402.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,12",
+        "headline": "3月12号",
+        "text": "我爱骑马",
+        "asset": {
+          "media": "images/little_bean/20170312-115751.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,12",
+        "headline": "3月12号",
+        "text": "芙蓉隧道",
+        "asset": {
+          "media": "images/little_bean/20170312-134002.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,13",
+        "headline": "3月13号",
+        "text": "我要挖个城堡",
+        "asset": {
+          "media": "images/little_bean/20170313-104030.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,13",
+        "headline": "3月13号",
+        "text": "吹泡泡",
+        "asset": {
+          "media": "images/little_bean/20170313-112905.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,13",
+        "headline": "3月13号",
+        "text": "天气好热，吃个冰淇淋吧",
+        "asset": {
+          "media": "images/little_bean/20170313-131411.jpg",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017,3,18",
+        "headline": "3月18号",
+        "text": "看我的裙子，漂亮吧",
+        "asset": {
+          "media": "images/little_bean/20170318-205805.jpg",
           "credit": "",
           "caption": ""
         }
