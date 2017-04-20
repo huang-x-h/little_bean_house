@@ -7,8 +7,7 @@
     "start": "node index.js",
     "build": "npm run build:image && npm run clean",
     "build:image": "node scripts/image.js",
-    "clean": "node scripts/clean.js",
-    "postinstall": "./node_modules/bower/bin/bower install"
+    "clean": "node scripts/clean.js"
   },
   "dependencies": {
     "bluebird": "^3.3.1",
